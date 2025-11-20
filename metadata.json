@@ -1,0 +1,8 @@
+{
+  "name": "Sentinel AI - Smart Home Monitor",
+  "description": "Next-gen smart home security dashboard featuring AI behavioral analysis, real-time monitoring, and intelligent timeline playback as per PRD specifications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
